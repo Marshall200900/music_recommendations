@@ -1,0 +1,73 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Gwynbleidd\\source\\repos\\HSE\\Курсовые работы\\3 курс\\music_recommendations\\watch\\watch\\watch\\watch.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Gwynbleidd\\source\\repos\\HSE\\Курсовые работы\\3 курс\\music_recommendations\\watch\\watch\\watch\\watch.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Gwynbleidd\\source\\repos\\HSE\\Курсовые работы\\3 курс\\music_recommendations\\watch\\watch\\watch\\watch.csproj",
+        "projectName": "watch",
+        "projectPath": "C:\\Users\\Gwynbleidd\\source\\repos\\HSE\\Курсовые работы\\3 курс\\music_recommendations\\watch\\watch\\watch\\watch.csproj",
+        "packagesPath": "C:\\Users\\Gwynbleidd\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Gwynbleidd\\source\\repos\\HSE\\Курсовые работы\\3 курс\\music_recommendations\\watch\\watch\\watch\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\DevExpress 20.2\\Components\\Offline Packages",
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Gwynbleidd\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 20.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "monoandroid90"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 20.2\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "monoandroid90": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "monoandroid90": {
+          "dependencies": {
+            "Xamarin.Android.Support.Core.Utils": {
+              "target": "Package",
+              "version": "[28.0.0.3, )"
+            },
+            "Xamarin.Android.Support.Fragment": {
+              "target": "Package",
+              "version": "[28.0.0.3, )"
+            },
+            "Xamarin.Android.Support.Media.Compat": {
+              "target": "Package",
+              "version": "[28.0.0.3, )"
+            },
+            "Xamarin.Android.Support.Percent": {
+              "target": "Package",
+              "version": "[28.0.0.3, )"
+            },
+            "Xamarin.Android.Support.Wear": {
+              "target": "Package",
+              "version": "[28.0.0.3, )"
+            },
+            "Xamarin.Android.Wear": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            }
+          }
+        }
+      }
+    }
+  }
+}
