@@ -12,6 +12,7 @@
     "expo-splash-screen": "~0.8.0",
     "expo-status-bar": "~1.0.3",
     "expo-updates": "~0.4.0",
+    "native-base": "^2.15.2",
     "react": "16.13.1",
     "react-dom": "16.13.1",
     "react-native": "~0.63.4",
@@ -24,11 +25,17 @@
   "devDependencies": {
     "@babel/core": "~7.9.0",
     "babel-jest": "~25.2.6",
+    "create-react-component-folder": "^0.3.7",
     "jest": "~25.2.6",
     "react-test-renderer": "~16.13.1"
   },
   "jest": {
     "preset": "react-native"
   },
-  "private": true
+  "private": true,
+  "crcf": [
+    {
+      "output": "./src/components"
+    }
+  ]
 }
